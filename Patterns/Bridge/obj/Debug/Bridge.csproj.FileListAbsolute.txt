@@ -1,0 +1,5 @@
+D:\Patterns\Patterns\Patterns\Bridge\bin\Debug\Bridge.exe.config
+D:\Patterns\Patterns\Patterns\Bridge\bin\Debug\Bridge.exe
+D:\Patterns\Patterns\Patterns\Bridge\bin\Debug\Bridge.pdb
+D:\Patterns\Patterns\Patterns\Bridge\obj\Debug\Bridge.exe
+D:\Patterns\Patterns\Patterns\Bridge\obj\Debug\Bridge.pdb
