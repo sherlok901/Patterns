@@ -1,0 +1,7 @@
+C:\Users\ihor.buhaienko\Documents\GitHub\Patterns\Patterns\Mediator2\bin\Debug\Mediator2.exe.config
+C:\Users\ihor.buhaienko\Documents\GitHub\Patterns\Patterns\Mediator2\bin\Debug\Mediator2.exe
+C:\Users\ihor.buhaienko\Documents\GitHub\Patterns\Patterns\Mediator2\bin\Debug\Mediator2.pdb
+C:\Users\ihor.buhaienko\Documents\GitHub\Patterns\Patterns\Mediator2\obj\Debug\Mediator2.csprojResolveAssemblyReference.cache
+C:\Users\ihor.buhaienko\Documents\GitHub\Patterns\Patterns\Mediator2\obj\Debug\Mediator2.csproj.CoreCompileInputs.cache
+C:\Users\ihor.buhaienko\Documents\GitHub\Patterns\Patterns\Mediator2\obj\Debug\Mediator2.exe
+C:\Users\ihor.buhaienko\Documents\GitHub\Patterns\Patterns\Mediator2\obj\Debug\Mediator2.pdb
