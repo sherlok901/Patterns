@@ -3,3 +3,10 @@ D:\Patterns\Patterns\Patterns\Bridge\bin\Debug\Bridge.exe
 D:\Patterns\Patterns\Patterns\Bridge\bin\Debug\Bridge.pdb
 D:\Patterns\Patterns\Patterns\Bridge\obj\Debug\Bridge.exe
 D:\Patterns\Patterns\Patterns\Bridge\obj\Debug\Bridge.pdb
+C:\Users\ihor.buhaienko\Documents\GitHub\Patterns\Patterns\Bridge\bin\Debug\Bridge.exe.config
+C:\Users\ihor.buhaienko\Documents\GitHub\Patterns\Patterns\Bridge\bin\Debug\Bridge.exe
+C:\Users\ihor.buhaienko\Documents\GitHub\Patterns\Patterns\Bridge\bin\Debug\Bridge.pdb
+C:\Users\ihor.buhaienko\Documents\GitHub\Patterns\Patterns\Bridge\obj\Debug\Bridge.csprojResolveAssemblyReference.cache
+C:\Users\ihor.buhaienko\Documents\GitHub\Patterns\Patterns\Bridge\obj\Debug\Bridge.csproj.CoreCompileInputs.cache
+C:\Users\ihor.buhaienko\Documents\GitHub\Patterns\Patterns\Bridge\obj\Debug\Bridge.exe
+C:\Users\ihor.buhaienko\Documents\GitHub\Patterns\Patterns\Bridge\obj\Debug\Bridge.pdb
