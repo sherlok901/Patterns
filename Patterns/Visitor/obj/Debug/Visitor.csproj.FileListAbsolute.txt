@@ -1,0 +1,7 @@
+C:\Users\ihor.buhaienko\Documents\GitHub\Patterns\Patterns\Visitor\bin\Debug\Visitor.exe.config
+C:\Users\ihor.buhaienko\Documents\GitHub\Patterns\Patterns\Visitor\bin\Debug\Visitor.exe
+C:\Users\ihor.buhaienko\Documents\GitHub\Patterns\Patterns\Visitor\bin\Debug\Visitor.pdb
+C:\Users\ihor.buhaienko\Documents\GitHub\Patterns\Patterns\Visitor\obj\Debug\Visitor.csprojResolveAssemblyReference.cache
+C:\Users\ihor.buhaienko\Documents\GitHub\Patterns\Patterns\Visitor\obj\Debug\Visitor.csproj.CoreCompileInputs.cache
+C:\Users\ihor.buhaienko\Documents\GitHub\Patterns\Patterns\Visitor\obj\Debug\Visitor.exe
+C:\Users\ihor.buhaienko\Documents\GitHub\Patterns\Patterns\Visitor\obj\Debug\Visitor.pdb
