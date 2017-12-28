@@ -1,0 +1,7 @@
+C:\Users\ihor.buhaienko\Documents\GitHub\Patterns\Patterns\Memento\bin\Debug\Memento.exe.config
+C:\Users\ihor.buhaienko\Documents\GitHub\Patterns\Patterns\Memento\bin\Debug\Memento.exe
+C:\Users\ihor.buhaienko\Documents\GitHub\Patterns\Patterns\Memento\bin\Debug\Memento.pdb
+C:\Users\ihor.buhaienko\Documents\GitHub\Patterns\Patterns\Memento\obj\Debug\Memento.csprojResolveAssemblyReference.cache
+C:\Users\ihor.buhaienko\Documents\GitHub\Patterns\Patterns\Memento\obj\Debug\Memento.csproj.CoreCompileInputs.cache
+C:\Users\ihor.buhaienko\Documents\GitHub\Patterns\Patterns\Memento\obj\Debug\Memento.exe
+C:\Users\ihor.buhaienko\Documents\GitHub\Patterns\Patterns\Memento\obj\Debug\Memento.pdb
